@@ -1,0 +1,1761 @@
+{
+  "level": 3,
+  "elevation": 8.4,
+  "label": "Level 3",
+  "source": "public/references/5-Photo-5.jpg",
+  "rooms": [
+    {
+      "id": "l3-chem-nw",
+      "name": "Chemistry",
+      "polygon": [
+        [
+          263.07,
+          156.06
+        ],
+        [
+          354.38,
+          155.81
+        ],
+        [
+          355.16,
+          242.54
+        ],
+        [
+          263.54,
+          243.05
+        ]
+      ],
+      "category": "science",
+      "confidence": "traced",
+      "notes": "Visible partition boundaries traced from undimensioned photographed floor plan; coordinates approximate."
+    },
+    {
+      "id": "l3-bio",
+      "name": "Biology",
+      "polygon": [
+        [
+          354.38,
+          155.81
+        ],
+        [
+          444.13,
+          155.56
+        ],
+        [
+          445.2,
+          242.05
+        ],
+        [
+          355.16,
+          242.54
+        ]
+      ],
+      "category": "science",
+      "confidence": "traced",
+      "notes": "Visible partition boundaries traced from undimensioned photographed floor plan; coordinates approximate."
+    },
+    {
+      "id": "l3-science-prep",
+      "name": "Science preparation",
+      "polygon": [
+        [
+          284.66,
+          246.01
+        ],
+        [
+          336.27,
+          245.72
+        ],
+        [
+          336.63,
+          289.86
+        ],
+        [
+          284.94,
+          290.22
+        ]
+      ],
+      "category": "support",
+      "confidence": "traced",
+      "notes": "Visible partition boundaries traced from undimensioned photographed floor plan; coordinates approximate."
+    },
+    {
+      "id": "l3-chem-sw",
+      "name": "Chemistry",
+      "polygon": [
+        [
+          268.03,
+          291.37
+        ],
+        [
+          359.79,
+          290.72
+        ],
+        [
+          360.58,
+          377.32
+        ],
+        [
+          268.51,
+          378.23
+        ]
+      ],
+      "category": "science",
+      "confidence": "traced",
+      "notes": "Visible partition boundaries traced from undimensioned photographed floor plan; coordinates approximate."
+    },
+    {
+      "id": "l3-science-sw",
+      "name": "Science classroom (label unresolved)",
+      "polygon": [
+        [
+          359.79,
+          290.72
+        ],
+        [
+          449.98,
+          290.09
+        ],
+        [
+          451.06,
+          376.44
+        ],
+        [
+          360.58,
+          377.32
+        ]
+      ],
+      "category": "science",
+      "confidence": "traced",
+      "notes": "Visible partition boundaries traced from undimensioned photographed floor plan; coordinates approximate."
+    },
+    {
+      "id": "l3-stair-c",
+      "name": "Stair C",
+      "polygon": [
+        [
+          451.21,
+          304.43
+        ],
+        [
+          452.26,
+          387.78
+        ],
+        [
+          494.18,
+          387.35
+        ],
+        [
+          494.0,
+          374.98
+        ],
+        [
+          494.0,
+          374.98
+        ],
+        [
+          492.99,
+          304.12
+        ]
+      ],
+      "category": "stair",
+      "confidence": "traced",
+      "notes": "Visible partition boundaries traced from undimensioned photographed floor plan; coordinates approximate."
+    },
+    {
+      "id": "l3-cr26",
+      "name": "Classroom 26",
+      "polygon": [
+        [
+          492.66,
+          280.58
+        ],
+        [
+          545.73,
+          280.22
+        ],
+        [
+          547.27,
+          374.46
+        ],
+        [
+          494.0,
+          374.98
+        ]
+      ],
+      "category": "classroom",
+      "confidence": "traced",
+      "notes": "Visible partition boundaries traced from undimensioned photographed floor plan; coordinates approximate."
+    },
+    {
+      "id": "l3-gensci1",
+      "name": "General science 1",
+      "polygon": [
+        [
+          444.63,
+          112.03
+        ],
+        [
+          506.82,
+          111.95
+        ],
+        [
+          508.36,
+          215.24
+        ],
+        [
+          445.91,
+          215.53
+        ]
+      ],
+      "category": "science",
+      "confidence": "traced",
+      "notes": "Visible partition boundaries traced from undimensioned photographed floor plan; coordinates approximate."
+    },
+    {
+      "id": "l3-gensci2",
+      "name": "General science 2",
+      "polygon": [
+        [
+          507.86,
+          111.95
+        ],
+        [
+          568.77,
+          111.87
+        ],
+        [
+          570.56,
+          214.95
+        ],
+        [
+          509.4,
+          215.23
+        ]
+      ],
+      "category": "science",
+      "confidence": "traced",
+      "notes": "Visible partition boundaries traced from undimensioned photographed floor plan; coordinates approximate."
+    },
+    {
+      "id": "l3-gensci3",
+      "name": "General science 3",
+      "polygon": [
+        [
+          569.8,
+          111.87
+        ],
+        [
+          632.53,
+          111.78
+        ],
+        [
+          634.56,
+          214.65
+        ],
+        [
+          571.59,
+          214.94
+        ]
+      ],
+      "category": "science",
+      "confidence": "traced",
+      "notes": "Visible partition boundaries traced from undimensioned photographed floor plan; coordinates approximate."
+    },
+    {
+      "id": "l3-prep-n",
+      "name": "Science preparation",
+      "polygon": [
+        [
+          474.13,
+          221.5
+        ],
+        [
+          527.14,
+          221.25
+        ],
+        [
+          527.6,
+          250.76
+        ],
+        [
+          474.53,
+          251.07
+        ]
+      ],
+      "category": "support",
+      "confidence": "traced",
+      "notes": "Visible partition boundaries traced from undimensioned photographed floor plan; coordinates approximate."
+    },
+    {
+      "id": "l3-cust",
+      "name": "Custodial",
+      "polygon": [
+        [
+          536.41,
+          217.14
+        ],
+        [
+          555.06,
+          217.05
+        ],
+        [
+          555.62,
+          250.6
+        ],
+        [
+          536.95,
+          250.71
+        ]
+      ],
+      "category": "support",
+      "confidence": "traced",
+      "notes": "Visible partition boundaries traced from undimensioned photographed floor plan; coordinates approximate."
+    },
+    {
+      "id": "l3-elec",
+      "name": "Electrical",
+      "polygon": [
+        [
+          589.18,
+          215.87
+        ],
+        [
+          613.96,
+          215.76
+        ],
+        [
+          614.62,
+          250.26
+        ],
+        [
+          589.81,
+          250.4
+        ]
+      ],
+      "category": "support",
+      "confidence": "traced",
+      "notes": "Visible partition boundaries traced from undimensioned photographed floor plan; coordinates approximate."
+    },
+    {
+      "id": "l3-lan",
+      "name": "LAN",
+      "polygon": [
+        [
+          616.03,
+          215.75
+        ],
+        [
+          634.58,
+          215.66
+        ],
+        [
+          635.27,
+          250.14
+        ],
+        [
+          616.68,
+          250.24
+        ]
+      ],
+      "category": "support",
+      "confidence": "traced",
+      "notes": "Visible partition boundaries traced from undimensioned photographed floor plan; coordinates approximate."
+    },
+    {
+      "id": "l3-washroom-n",
+      "name": "Washroom",
+      "polygon": [
+        [
+          635.59,
+          110.77
+        ],
+        [
+          714.39,
+          110.67
+        ],
+        [
+          715.56,
+          161.86
+        ],
+        [
+          636.61,
+          162.1
+        ]
+      ],
+      "category": "support",
+      "confidence": "traced",
+      "notes": "Visible partition boundaries traced from undimensioned photographed floor plan; coordinates approximate."
+    },
+    {
+      "id": "l3-girls",
+      "name": "Girls washroom",
+      "polygon": [
+        [
+          638.69,
+          163.1
+        ],
+        [
+          666.41,
+          163.01
+        ],
+        [
+          668.2,
+          247.92
+        ],
+        [
+          640.38,
+          248.08
+        ]
+      ],
+      "category": "support",
+      "confidence": "traced",
+      "notes": "Visible partition boundaries traced from undimensioned photographed floor plan; coordinates approximate."
+    },
+    {
+      "id": "l3-boys",
+      "name": "Boys washroom",
+      "polygon": [
+        [
+          667.44,
+          163.01
+        ],
+        [
+          695.12,
+          162.93
+        ],
+        [
+          697.0,
+          247.75
+        ],
+        [
+          669.23,
+          247.91
+        ]
+      ],
+      "category": "support",
+      "confidence": "traced",
+      "notes": "Visible partition boundaries traced from undimensioned photographed floor plan; coordinates approximate."
+    },
+    {
+      "id": "l3-physics",
+      "name": "Physics",
+      "polygon": [
+        [
+          717.47,
+          111.67
+        ],
+        [
+          778.59,
+          111.59
+        ],
+        [
+          781.19,
+          213.97
+        ],
+        [
+          719.84,
+          214.25
+        ]
+      ],
+      "category": "science",
+      "confidence": "traced",
+      "notes": "Visible partition boundaries traced from undimensioned photographed floor plan; coordinates approximate."
+    },
+    {
+      "id": "l3-wc-physics",
+      "name": "Washroom",
+      "polygon": [
+        [
+          734.23,
+          216.2
+        ],
+        [
+          780.22,
+          215.99
+        ],
+        [
+          781.05,
+          248.28
+        ],
+        [
+          734.99,
+          248.55
+        ]
+      ],
+      "category": "support",
+      "confidence": "traced",
+      "notes": "Visible partition boundaries traced from undimensioned photographed floor plan; coordinates approximate."
+    },
+    {
+      "id": "l3-store",
+      "name": "Storage",
+      "polygon": [
+        [
+          780.68,
+          153.64
+        ],
+        [
+          808.14,
+          153.57
+        ],
+        [
+          810.65,
+          248.11
+        ],
+        [
+          783.09,
+          248.27
+        ]
+      ],
+      "category": "support",
+      "confidence": "traced",
+      "notes": "Visible partition boundaries traced from undimensioned photographed floor plan; coordinates approximate."
+    },
+    {
+      "id": "l3-stair-a",
+      "name": "Stair A",
+      "polygon": [
+        [
+          809.88,
+          142.55
+        ],
+        [
+          854.51,
+          142.44
+        ],
+        [
+          857.21,
+          237.76
+        ],
+        [
+          812.42,
+          238.01
+        ]
+      ],
+      "category": "stair",
+      "confidence": "traced",
+      "notes": "Visible partition boundaries traced from undimensioned photographed floor plan; coordinates approximate."
+    },
+    {
+      "id": "l3-cr21",
+      "name": "Classroom 21",
+      "polygon": [
+        [
+          855.83,
+          153.44
+        ],
+        [
+          912.46,
+          153.29
+        ],
+        [
+          915.04,
+          237.45
+        ],
+        [
+          858.23,
+          237.76
+        ]
+      ],
+      "category": "classroom",
+      "confidence": "traced",
+      "notes": "Visible partition boundaries traced from undimensioned photographed floor plan; coordinates approximate."
+    },
+    {
+      "id": "l3-cr22",
+      "name": "Classroom 22",
+      "polygon": [
+        [
+          913.47,
+          153.29
+        ],
+        [
+          969.89,
+          153.13
+        ],
+        [
+          972.65,
+          237.14
+        ],
+        [
+          916.06,
+          237.44
+        ]
+      ],
+      "category": "classroom",
+      "confidence": "traced",
+      "notes": "Visible partition boundaries traced from undimensioned photographed floor plan; coordinates approximate."
+    },
+    {
+      "id": "l3-cr23",
+      "name": "Classroom 23",
+      "polygon": [
+        [
+          970.9,
+          153.13
+        ],
+        [
+          1024.1,
+          152.99
+        ],
+        [
+          1027.04,
+          236.84
+        ],
+        [
+          973.66,
+          237.13
+        ]
+      ],
+      "category": "classroom",
+      "confidence": "traced",
+      "notes": "Visible partition boundaries traced from undimensioned photographed floor plan; coordinates approximate."
+    },
+    {
+      "id": "l3-allgender",
+      "name": "All gender washroom",
+      "polygon": [
+        [
+          858.56,
+          285.19
+        ],
+        [
+          912.43,
+          284.81
+        ],
+        [
+          913.27,
+          312.08
+        ],
+        [
+          859.33,
+          312.51
+        ]
+      ],
+      "category": "support",
+      "confidence": "traced",
+      "notes": "Visible partition boundaries traced from undimensioned photographed floor plan; coordinates approximate."
+    },
+    {
+      "id": "l3-universal",
+      "name": "Universal washroom",
+      "polygon": [
+        [
+          858.34,
+          313.53
+        ],
+        [
+          883.81,
+          313.33
+        ],
+        [
+          884.4,
+          333.59
+        ],
+        [
+          858.92,
+          333.8
+        ]
+      ],
+      "category": "support",
+      "confidence": "traced",
+      "notes": "Visible partition boundaries traced from undimensioned photographed floor plan; coordinates approximate."
+    },
+    {
+      "id": "l3-resource",
+      "name": "Resource",
+      "polygon": [
+        [
+          883.84,
+          314.34
+        ],
+        [
+          914.34,
+          314.1
+        ],
+        [
+          915.89,
+          364.76
+        ],
+        [
+          885.33,
+          365.05
+        ]
+      ],
+      "category": "support",
+      "confidence": "traced",
+      "notes": "Visible partition boundaries traced from undimensioned photographed floor plan; coordinates approximate."
+    },
+    {
+      "id": "l3-cr25",
+      "name": "Classroom 25",
+      "polygon": [
+        [
+          914.46,
+          284.79
+        ],
+        [
+          970.16,
+          284.41
+        ],
+        [
+          972.81,
+          365.23
+        ],
+        [
+          916.94,
+          365.77
+        ]
+      ],
+      "category": "classroom",
+      "confidence": "traced",
+      "notes": "Visible partition boundaries traced from undimensioned photographed floor plan; coordinates approximate."
+    },
+    {
+      "id": "l3-cr24",
+      "name": "Classroom 24",
+      "polygon": [
+        [
+          971.14,
+          283.39
+        ],
+        [
+          1027.64,
+          283.0
+        ],
+        [
+          1030.5,
+          364.67
+        ],
+        [
+          973.82,
+          365.22
+        ]
+      ],
+      "category": "classroom",
+      "confidence": "traced",
+      "notes": "Visible partition boundaries traced from undimensioned photographed floor plan; coordinates approximate."
+    },
+    {
+      "id": "l3-learning-commons",
+      "name": "Learning commons mezzanine",
+      "polygon": [
+        [
+          546.79,
+          281.24
+        ],
+        [
+          655.48,
+          280.5
+        ],
+        [
+          642.66,
+          362.26
+        ],
+        [
+          548.12,
+          363.15
+        ]
+      ],
+      "category": "commons",
+      "confidence": "traced",
+      "notes": "Visible partition boundaries traced from undimensioned photographed floor plan; coordinates approximate."
+    },
+    {
+      "id": "l3-lift",
+      "name": "Lift / service core",
+      "polygon": [
+        [
+          737.78,
+          279.94
+        ],
+        [
+          760.34,
+          279.79
+        ],
+        [
+          760.82,
+          299.06
+        ],
+        [
+          738.24,
+          299.23
+        ]
+      ],
+      "category": "support",
+      "confidence": "traced",
+      "notes": "Visible partition boundaries traced from undimensioned photographed floor plan; coordinates approximate."
+    },
+    {
+      "id": "l3-service-mezz",
+      "name": "Service core",
+      "polygon": [
+        [
+          727.99,
+          300.32
+        ],
+        [
+          759.82,
+          300.08
+        ],
+        [
+          760.29,
+          319.39
+        ],
+        [
+          728.44,
+          319.64
+        ]
+      ],
+      "category": "support",
+      "confidence": "traced",
+      "notes": "Visible partition boundaries traced from undimensioned photographed floor plan; coordinates approximate."
+    },
+    {
+      "id": "l3-comtech",
+      "name": "Communications technology",
+      "polygon": [
+        [
+          819.56,
+          583.51
+        ],
+        [
+          810.86,
+          527.8
+        ],
+        [
+          727.13,
+          530.08
+        ],
+        [
+          735.84,
+          592.18
+        ],
+        [
+          802.25,
+          585.3
+        ],
+        [
+          802.0,
+          583.81
+        ],
+        [
+          816.41,
+          581.49
+        ],
+        [
+          816.7,
+          583.81
+        ]
+      ],
+      "category": "technology",
+      "confidence": "traced",
+      "notes": "Visible partition boundaries traced from undimensioned photographed floor plan; coordinates approximate."
+    },
+    {
+      "id": "l3-tvstudio",
+      "name": "TV studio",
+      "polygon": [
+        [
+          736.95,
+          595.29
+        ],
+        [
+          786.63,
+          590.29
+        ],
+        [
+          792.74,
+          626.56
+        ],
+        [
+          744.09,
+          633.69
+        ]
+      ],
+      "category": "arts",
+      "confidence": "traced",
+      "notes": "Visible partition boundaries traced from undimensioned photographed floor plan; coordinates approximate."
+    },
+    {
+      "id": "l3-tv-support",
+      "name": "Studio support",
+      "polygon": [
+        [
+          787.67,
+          590.27
+        ],
+        [
+          802.08,
+          586.92
+        ],
+        [
+          808.25,
+          625.24
+        ],
+        [
+          793.8,
+          627.58
+        ]
+      ],
+      "category": "support",
+      "confidence": "traced",
+      "notes": "Visible partition boundaries traced from undimensioned photographed floor plan; coordinates approximate."
+    },
+    {
+      "id": "l3-lan-south",
+      "name": "LAN",
+      "polygon": [
+        [
+          802.0,
+          583.81
+        ],
+        [
+          816.41,
+          581.49
+        ],
+        [
+          819.03,
+          602.19
+        ],
+        [
+          805.66,
+          605.54
+        ]
+      ],
+      "category": "support",
+      "confidence": "traced",
+      "notes": "Visible partition boundaries traced from undimensioned photographed floor plan; coordinates approximate."
+    },
+    {
+      "id": "l3-elec-south",
+      "name": "Electrical",
+      "polygon": [
+        [
+          806.73,
+          606.56
+        ],
+        [
+          820.09,
+          603.21
+        ],
+        [
+          824.72,
+          621.82
+        ],
+        [
+          809.28,
+          625.22
+        ]
+      ],
+      "category": "support",
+      "confidence": "traced",
+      "notes": "Visible partition boundaries traced from undimensioned photographed floor plan; coordinates approximate."
+    },
+    {
+      "id": "l3-art-n",
+      "name": "Art studio",
+      "polygon": [
+        [
+          746.27,
+          637.82
+        ],
+        [
+          825.87,
+          625.96
+        ],
+        [
+          834.68,
+          684.13
+        ],
+        [
+          757.01,
+          695.11
+        ]
+      ],
+      "category": "arts",
+      "confidence": "traced",
+      "notes": "Visible partition boundaries traced from undimensioned photographed floor plan; coordinates approximate."
+    },
+    {
+      "id": "l3-art-store",
+      "name": "Art storage",
+      "polygon": [
+        [
+          759.12,
+          696.11
+        ],
+        [
+          806.79,
+          688.87
+        ],
+        [
+          810.62,
+          716.0
+        ],
+        [
+          760.82,
+          723.34
+        ]
+      ],
+      "category": "support",
+      "confidence": "traced",
+      "notes": "Visible partition boundaries traced from undimensioned photographed floor plan; coordinates approximate."
+    },
+    {
+      "id": "l3-kiln",
+      "name": "Kiln",
+      "polygon": [
+        [
+          808.87,
+          688.83
+        ],
+        [
+          833.67,
+          685.2
+        ],
+        [
+          838.53,
+          711.23
+        ],
+        [
+          812.69,
+          715.95
+        ]
+      ],
+      "category": "support",
+      "confidence": "traced",
+      "notes": "Visible partition boundaries traced from undimensioned photographed floor plan; coordinates approximate."
+    },
+    {
+      "id": "l3-art-s",
+      "name": "Art studio",
+      "polygon": [
+        [
+          762.96,
+          725.39
+        ],
+        [
+          839.68,
+          715.39
+        ],
+        [
+          848.49,
+          771.82
+        ],
+        [
+          766.45,
+          783.17
+        ]
+      ],
+      "category": "arts",
+      "confidence": "traced",
+      "notes": "Visible partition boundaries traced from undimensioned photographed floor plan; coordinates approximate."
+    },
+    {
+      "id": "l3-stair-b",
+      "name": "Stair B",
+      "polygon": [
+        [
+          767.55,
+          785.26
+        ],
+        [
+          849.56,
+          772.84
+        ],
+        [
+          856.72,
+          806.34
+        ],
+        [
+          770.49,
+          820.03
+        ]
+      ],
+      "category": "stair",
+      "confidence": "traced",
+      "notes": "Visible partition boundaries traced from undimensioned photographed floor plan; coordinates approximate."
+    },
+    {
+      "id": "l3-cr27",
+      "name": "Classroom 27",
+      "polygon": [
+        [
+          861.37,
+          529.11
+        ],
+        [
+          916.78,
+          528.29
+        ],
+        [
+          919.19,
+          607.7
+        ],
+        [
+          863.62,
+          608.68
+        ]
+      ],
+      "category": "classroom",
+      "confidence": "traced",
+      "notes": "Visible partition boundaries traced from undimensioned photographed floor plan; coordinates approximate."
+    },
+    {
+      "id": "l3-cr28",
+      "name": "Classroom 28",
+      "polygon": [
+        [
+          917.8,
+          528.27
+        ],
+        [
+          971.99,
+          527.46
+        ],
+        [
+          974.56,
+          606.73
+        ],
+        [
+          920.22,
+          607.68
+        ]
+      ],
+      "category": "classroom",
+      "confidence": "traced",
+      "notes": "Visible partition boundaries traced from undimensioned photographed floor plan; coordinates approximate."
+    },
+    {
+      "id": "l3-cr29",
+      "name": "Classroom 29",
+      "polygon": [
+        [
+          973.01,
+          527.45
+        ],
+        [
+          1029.03,
+          526.61
+        ],
+        [
+          1031.78,
+          605.73
+        ],
+        [
+          975.59,
+          606.72
+        ]
+      ],
+      "category": "classroom",
+      "confidence": "traced",
+      "notes": "Visible partition boundaries traced from undimensioned photographed floor plan; coordinates approximate."
+    },
+    {
+      "id": "l3-computer",
+      "name": "Computer lab",
+      "polygon": [
+        [
+          864.91,
+          654.36
+        ],
+        [
+          918.52,
+          653.34
+        ],
+        [
+          920.88,
+          731.44
+        ],
+        [
+          867.12,
+          732.6
+        ]
+      ],
+      "category": "technology",
+      "confidence": "traced",
+      "notes": "Visible partition boundaries traced from undimensioned photographed floor plan; coordinates approximate."
+    },
+    {
+      "id": "l3-creative",
+      "name": "Creative studio",
+      "polygon": [
+        [
+          920.58,
+          653.3
+        ],
+        [
+          973.99,
+          652.29
+        ],
+        [
+          976.52,
+          730.24
+        ],
+        [
+          922.95,
+          731.39
+        ]
+      ],
+      "category": "arts",
+      "confidence": "traced",
+      "notes": "Visible partition boundaries traced from undimensioned photographed floor plan; coordinates approximate."
+    },
+    {
+      "id": "l3-photography",
+      "name": "Photography",
+      "polygon": [
+        [
+          976.01,
+          651.21
+        ],
+        [
+          1029.23,
+          650.2
+        ],
+        [
+          1031.95,
+          729.04
+        ],
+        [
+          978.57,
+          730.19
+        ]
+      ],
+      "category": "arts",
+      "confidence": "traced",
+      "notes": "Visible partition boundaries traced from undimensioned photographed floor plan; coordinates approximate."
+    },
+    {
+      "id": "l3-washroom-south",
+      "name": "Washroom",
+      "polygon": [
+        [
+          867.23,
+          736.78
+        ],
+        [
+          923.07,
+          735.57
+        ],
+        [
+          924.76,
+          791.06
+        ],
+        [
+          872.16,
+          800.71
+        ]
+      ],
+      "category": "support",
+      "confidence": "traced",
+      "notes": "Visible partition boundaries traced from undimensioned photographed floor plan; coordinates approximate."
+    }
+  ],
+  "circulation": [
+    {
+      "id": "l3-connected-hall",
+      "name": "Connected co-lab and circulation",
+      "polygon": [
+        [
+          474.06,
+          216.41
+        ],
+        [
+          445.93,
+          216.54
+        ],
+        [
+          446.26,
+          243.06
+        ],
+        [
+          336.25,
+          243.67
+        ],
+        [
+          336.27,
+          245.72
+        ],
+        [
+          336.27,
+          245.72
+        ],
+        [
+          336.63,
+          289.86
+        ],
+        [
+          449.97,
+          289.06
+        ],
+        [
+          450.15,
+          303.41
+        ],
+        [
+          491.94,
+          303.1
+        ],
+        [
+          492.82,
+          291.84
+        ],
+        [
+          492.66,
+          280.58
+        ],
+        [
+          493.7,
+          280.57
+        ],
+        [
+          493.7,
+          280.57
+        ],
+        [
+          828.72,
+          275.28
+        ],
+        [
+          833.54,
+          527.47
+        ],
+        [
+          810.86,
+          527.8
+        ],
+        [
+          819.56,
+          583.51
+        ],
+        [
+          816.88,
+          583.79
+        ],
+        [
+          824.72,
+          621.82
+        ],
+        [
+          825.45,
+          626.02
+        ],
+        [
+          825.87,
+          625.96
+        ],
+        [
+          828.99,
+          646.55
+        ],
+        [
+          855.93,
+          802.66
+        ],
+        [
+          856.72,
+          806.34
+        ],
+        [
+          856.57,
+          806.36
+        ],
+        [
+          856.75,
+          807.39
+        ],
+        [
+          871.24,
+          804.94
+        ],
+        [
+          868.02,
+          746.98
+        ],
+        [
+          867.23,
+          736.78
+        ],
+        [
+          867.45,
+          736.78
+        ],
+        [
+          867.22,
+          732.6
+        ],
+        [
+          867.12,
+          732.6
+        ],
+        [
+          867.02,
+          729.06
+        ],
+        [
+          862.81,
+          653.36
+        ],
+        [
+          1013.9,
+          650.49
+        ],
+        [
+          1012.39,
+          606.07
+        ],
+        [
+          975.59,
+          606.72
+        ],
+        [
+          975.59,
+          606.71
+        ],
+        [
+          918.73,
+          607.71
+        ],
+        [
+          863.62,
+          608.68
+        ],
+        [
+          863.62,
+          608.67
+        ],
+        [
+          862.59,
+          608.69
+        ],
+        [
+          858.14,
+          451.07
+        ],
+        [
+          886.82,
+          450.72
+        ],
+        [
+          884.37,
+          367.1
+        ],
+        [
+          858.85,
+          367.34
+        ],
+        [
+          857.51,
+          284.18
+        ],
+        [
+          1012.53,
+          283.1
+        ],
+        [
+          1010.94,
+          236.93
+        ],
+        [
+          972.65,
+          237.14
+        ],
+        [
+          972.65,
+          237.14
+        ],
+        [
+          958.4,
+          237.22
+        ],
+        [
+          860.7,
+          237.75
+        ],
+        [
+          858.23,
+          237.76
+        ],
+        [
+          858.23,
+          237.76
+        ],
+        [
+          819.82,
+          237.97
+        ],
+        [
+          812.42,
+          238.01
+        ],
+        [
+          812.42,
+          238.01
+        ],
+        [
+          810.38,
+          238.02
+        ],
+        [
+          810.65,
+          248.11
+        ],
+        [
+          734.99,
+          248.55
+        ],
+        [
+          735.04,
+          250.57
+        ],
+        [
+          640.44,
+          251.12
+        ],
+        [
+          640.38,
+          248.08
+        ],
+        [
+          640.38,
+          248.08
+        ],
+        [
+          640.06,
+          231.85
+        ],
+        [
+          635.94,
+          231.87
+        ],
+        [
+          636.32,
+          251.14
+        ],
+        [
+          589.82,
+          251.42
+        ],
+        [
+          589.84,
+          252.43
+        ],
+        [
+          536.98,
+          252.74
+        ],
+        [
+          536.81,
+          242.01
+        ],
+        [
+          536.41,
+          217.14
+        ],
+        [
+          536.42,
+          217.14
+        ],
+        [
+          536.4,
+          216.12
+        ],
+        [
+          528.1,
+          216.16
+        ],
+        [
+          528.67,
+          252.79
+        ],
+        [
+          474.56,
+          253.11
+        ],
+        [
+          474.53,
+          251.07
+        ],
+        [
+          474.53,
+          251.07
+        ],
+        [
+          474.22,
+          228.26
+        ]
+      ]
+    }
+  ],
+  "voids": [
+    {
+      "id": "l3-commons-void",
+      "name": "Open to learning commons below",
+      "polygon": [
+        [
+          727.52,
+          280.01
+        ],
+        [
+          656.51,
+          280.49
+        ],
+        [
+          643.7,
+          362.25
+        ],
+        [
+          762.29,
+          359.09
+        ],
+        [
+          761.32,
+          319.38
+        ],
+        [
+          760.29,
+          319.39
+        ],
+        [
+          760.29,
+          319.39
+        ],
+        [
+          728.44,
+          319.64
+        ],
+        [
+          727.99,
+          300.32
+        ],
+        [
+          727.99,
+          300.32
+        ]
+      ]
+    },
+    {
+      "id": "l3-cafeteria-void",
+      "name": "Open to cafeteria / atrium below",
+      "polygon": [
+        [
+          832.51,
+          527.48
+        ],
+        [
+          827.76,
+          277.31
+        ],
+        [
+          763.37,
+          277.74
+        ],
+        [
+          765.48,
+          363.14
+        ],
+        [
+          662.37,
+          364.12
+        ],
+        [
+          664.88,
+          535.16
+        ],
+        [
+          727.44,
+          532.29
+        ],
+        [
+          727.13,
+          530.08
+        ],
+        [
+          810.86,
+          527.8
+        ],
+        [
+          810.96,
+          528.47
+        ]
+      ]
+    },
+    {
+      "id": "l3-gym-roof",
+      "name": "Gymnasium roof below",
+      "polygon": [
+        [
+          381.0,
+          852.0
+        ],
+        [
+          764.59,
+          792.71
+        ],
+        [
+          735.94,
+          596.34
+        ],
+        [
+          351.41,
+          660.94
+        ]
+      ]
+    },
+    {
+      "id": "l3-exercise-roof",
+      "name": "Exercise wing roof below",
+      "polygon": [
+        [
+          408.88,
+          653.52
+        ],
+        [
+          735.91,
+          595.3
+        ],
+        [
+          721.9,
+          528.09
+        ],
+        [
+          395.28,
+          572.74
+        ]
+      ]
+    },
+    {
+      "id": "l3-east-roof",
+      "name": "Roof below east recess",
+      "polygon": [
+        [
+          886.88,
+          452.76
+        ],
+        [
+          859.23,
+          453.11
+        ],
+        [
+          861.31,
+          527.05
+        ],
+        [
+          1028.89,
+          522.51
+        ],
+        [
+          1026.56,
+          367.75
+        ],
+        [
+          885.45,
+          369.12
+        ]
+      ]
+    }
+  ]
+}

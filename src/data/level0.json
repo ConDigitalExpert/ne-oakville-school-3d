@@ -1,0 +1,781 @@
+{
+  "level": 0,
+  "elevation": -4.2,
+  "label": "Level 0 \u00b7 Childcare",
+  "source": "Photo 10; approximate registration to Photo 8 at Stair D; stair-centroid registration refinement",
+  "rooms": [
+    {
+      "id": "l0-toddler-1",
+      "name": "Toddler room 1",
+      "category": "childcare",
+      "polygon": [
+        [
+          387.545,
+          585.987
+        ],
+        [
+          342.945,
+          597.487
+        ],
+        [
+          358.145,
+          662.487
+        ],
+        [
+          377.411,
+          655.634
+        ],
+        [
+          377.045,
+          652.487
+        ],
+        [
+          393.894,
+          649.771
+        ],
+        [
+          456.545,
+          627.487
+        ],
+        [
+          453.795,
+          612.184
+        ],
+        [
+          434.945,
+          615.187
+        ],
+        [
+          433.308,
+          601.107
+        ],
+        [
+          395.145,
+          610.187
+        ]
+      ],
+      "confidence": "inferred",
+      "notes": "Room relationships traced from Photo 10; affine registration beneath western gym wing is approximate and unresolved. No measured dimensions.",
+      "height": 3.85
+    },
+    {
+      "id": "l0-toddler-2",
+      "name": "Toddler room 2",
+      "category": "childcare",
+      "polygon": [
+        [
+          447.445,
+          697.287
+        ],
+        [
+          440.445,
+          670.387
+        ],
+        [
+          424.445,
+          656.287
+        ],
+        [
+          365.545,
+          677.087
+        ],
+        [
+          383.545,
+          724.087
+        ],
+        [
+          422.78,
+          707.631
+        ],
+        [
+          422.345,
+          703.887
+        ],
+        [
+          437.45,
+          701.479
+        ]
+      ],
+      "confidence": "inferred",
+      "notes": "Room relationships traced from Photo 10; affine registration beneath western gym wing is approximate and unresolved. No measured dimensions.",
+      "height": 3.85
+    },
+    {
+      "id": "l0-infant",
+      "name": "Infant room",
+      "category": "childcare",
+      "polygon": [
+        [
+          391.645,
+          728.087
+        ],
+        [
+          441.445,
+          712.287
+        ],
+        [
+          454.945,
+          745.987
+        ],
+        [
+          428.345,
+          755.487
+        ],
+        [
+          428.645,
+          766.887
+        ],
+        [
+          404.145,
+          777.787
+        ]
+      ],
+      "confidence": "inferred",
+      "notes": "Room relationships traced from Photo 10; affine registration beneath western gym wing is approximate and unresolved. No measured dimensions.",
+      "height": 3.85
+    },
+    {
+      "id": "l0-preschool-1",
+      "name": "Preschool room 1",
+      "category": "childcare",
+      "polygon": [
+        [
+          412.645,
+          801.787
+        ],
+        [
+          493.545,
+          773.087
+        ],
+        [
+          504.645,
+          810.787
+        ],
+        [
+          520.245,
+          813.587
+        ],
+        [
+          425.145,
+          851.487
+        ]
+      ],
+      "confidence": "inferred",
+      "notes": "Room relationships traced from Photo 10; affine registration beneath western gym wing is approximate and unresolved. No measured dimensions.",
+      "height": 3.85
+    },
+    {
+      "id": "l0-preschool-2",
+      "name": "Preschool room 2",
+      "category": "childcare",
+      "polygon": [
+        [
+          538.745,
+          733.487
+        ],
+        [
+          585.345,
+          714.687
+        ],
+        [
+          599.545,
+          778.987
+        ],
+        [
+          555.845,
+          798.287
+        ]
+      ],
+      "confidence": "inferred",
+      "notes": "Room relationships traced from Photo 10; affine registration beneath western gym wing is approximate and unresolved. No measured dimensions.",
+      "height": 3.85
+    },
+    {
+      "id": "l0-stair-d",
+      "name": "Stair D lower landing",
+      "category": "stair",
+      "polygon": [
+        [
+          405.745,
+          577.787
+        ],
+        [
+          451.845,
+          570.487
+        ],
+        [
+          454.445,
+          592.787
+        ],
+        [
+          408.345,
+          600.187
+        ]
+      ],
+      "confidence": "inferred",
+      "notes": "Room relationships traced from Photo 10; affine registration beneath western gym wing is approximate and unresolved. No measured dimensions.",
+      "height": 3.85
+    },
+    {
+      "id": "l0-emr",
+      "name": "EMR",
+      "category": "support",
+      "polygon": [
+        [
+          432.945,
+          597.987
+        ],
+        [
+          455.545,
+          594.387
+        ],
+        [
+          457.545,
+          611.587
+        ],
+        [
+          434.945,
+          615.187
+        ]
+      ],
+      "confidence": "inferred",
+      "notes": "Room relationships traced from Photo 10; affine registration beneath western gym wing is approximate and unresolved. No measured dimensions.",
+      "height": 3.85
+    },
+    {
+      "id": "l0-toddler-wr-1",
+      "name": "Toddler washroom 1",
+      "category": "support",
+      "polygon": [
+        [
+          377.045,
+          652.487
+        ],
+        [
+          404.345,
+          648.087
+        ],
+        [
+          406.345,
+          665.287
+        ],
+        [
+          379.045,
+          669.687
+        ]
+      ],
+      "confidence": "inferred",
+      "notes": "Room relationships traced from Photo 10; affine registration beneath western gym wing is approximate and unresolved. No measured dimensions.",
+      "height": 3.85
+    },
+    {
+      "id": "l0-toddler-wr-2",
+      "name": "Toddler washroom 2",
+      "category": "support",
+      "polygon": [
+        [
+          423.445,
+          639.787
+        ],
+        [
+          454.545,
+          634.787
+        ],
+        [
+          456.645,
+          652.887
+        ],
+        [
+          425.545,
+          657.887
+        ]
+      ],
+      "confidence": "inferred",
+      "notes": "Room relationships traced from Photo 10; affine registration beneath western gym wing is approximate and unresolved. No measured dimensions.",
+      "height": 3.85
+    },
+    {
+      "id": "l0-electrical",
+      "name": "Electrical",
+      "category": "support",
+      "polygon": [
+        [
+          445.145,
+          669.587
+        ],
+        [
+          466.745,
+          666.187
+        ],
+        [
+          468.145,
+          678.187
+        ],
+        [
+          446.545,
+          681.687
+        ]
+      ],
+      "confidence": "inferred",
+      "notes": "Room relationships traced from Photo 10; affine registration beneath western gym wing is approximate and unresolved. No measured dimensions.",
+      "height": 3.85
+    },
+    {
+      "id": "l0-staff",
+      "name": "Childcare staff room",
+      "category": "support",
+      "polygon": [
+        [
+          448.745,
+          683.987
+        ],
+        [
+          486.345,
+          677.987
+        ],
+        [
+          488.845,
+          699.487
+        ],
+        [
+          451.245,
+          705.487
+        ]
+      ],
+      "confidence": "inferred",
+      "notes": "Room relationships traced from Photo 10; affine registration beneath western gym wing is approximate and unresolved. No measured dimensions.",
+      "height": 3.85
+    },
+    {
+      "id": "l0-sleep",
+      "name": "Infant sleep room",
+      "category": "childcare",
+      "polygon": [
+        [
+          451.645,
+          708.887
+        ],
+        [
+          494.845,
+          701.987
+        ],
+        [
+          497.245,
+          722.587
+        ],
+        [
+          454.045,
+          729.487
+        ]
+      ],
+      "confidence": "inferred",
+      "notes": "Room relationships traced from Photo 10; affine registration beneath western gym wing is approximate and unresolved. No measured dimensions.",
+      "height": 3.85
+    },
+    {
+      "id": "l0-office",
+      "name": "Childcare office",
+      "category": "admin",
+      "polygon": [
+        [
+          455.445,
+          733.687
+        ],
+        [
+          485.545,
+          728.887
+        ],
+        [
+          487.945,
+          749.487
+        ],
+        [
+          457.845,
+          754.287
+        ]
+      ],
+      "confidence": "inferred",
+      "notes": "Room relationships traced from Photo 10; affine registration beneath western gym wing is approximate and unresolved. No measured dimensions.",
+      "height": 3.85
+    },
+    {
+      "id": "l0-custodian",
+      "name": "Childcare custodian",
+      "category": "support",
+      "polygon": [
+        [
+          489.145,
+          726.587
+        ],
+        [
+          502.245,
+          724.487
+        ],
+        [
+          504.445,
+          743.387
+        ],
+        [
+          491.345,
+          745.487
+        ]
+      ],
+      "confidence": "inferred",
+      "notes": "Room relationships traced from Photo 10; affine registration beneath western gym wing is approximate and unresolved. No measured dimensions.",
+      "height": 3.85
+    },
+    {
+      "id": "l0-servery",
+      "name": "Childcare servery",
+      "category": "support",
+      "polygon": [
+        [
+          516.445,
+          665.287
+        ],
+        [
+          549.345,
+          659.987
+        ],
+        [
+          552.845,
+          690.087
+        ],
+        [
+          519.945,
+          695.387
+        ]
+      ],
+      "confidence": "inferred",
+      "notes": "Room relationships traced from Photo 10; affine registration beneath western gym wing is approximate and unresolved. No measured dimensions.",
+      "height": 3.85
+    },
+    {
+      "id": "l0-pantry",
+      "name": "Pantry",
+      "category": "support",
+      "polygon": [
+        [
+          544.545,
+          643.287
+        ],
+        [
+          567.045,
+          639.687
+        ],
+        [
+          568.745,
+          654.287
+        ],
+        [
+          546.245,
+          657.887
+        ]
+      ],
+      "confidence": "inferred",
+      "notes": "Room relationships traced from Photo 10; affine registration beneath western gym wing is approximate and unresolved. No measured dimensions.",
+      "height": 3.85
+    },
+    {
+      "id": "l0-store",
+      "name": "Childcare storage",
+      "category": "support",
+      "polygon": [
+        [
+          554.145,
+          660.087
+        ],
+        [
+          574.845,
+          656.787
+        ],
+        [
+          577.445,
+          679.187
+        ],
+        [
+          556.745,
+          682.487
+        ]
+      ],
+      "confidence": "inferred",
+      "notes": "Room relationships traced from Photo 10; affine registration beneath western gym wing is approximate and unresolved. No measured dimensions.",
+      "height": 3.85
+    },
+    {
+      "id": "l0-laundry",
+      "name": "Laundry",
+      "category": "support",
+      "polygon": [
+        [
+          555.145,
+          685.387
+        ],
+        [
+          577.745,
+          681.787
+        ],
+        [
+          579.145,
+          693.787
+        ],
+        [
+          556.545,
+          697.387
+        ]
+      ],
+      "confidence": "inferred",
+      "notes": "Room relationships traced from Photo 10; affine registration beneath western gym wing is approximate and unresolved. No measured dimensions.",
+      "height": 3.85
+    },
+    {
+      "id": "l0-universal-wr",
+      "name": "Universal washroom",
+      "category": "support",
+      "polygon": [
+        [
+          551.345,
+          701.687
+        ],
+        [
+          579.545,
+          697.187
+        ],
+        [
+          581.445,
+          713.587
+        ],
+        [
+          553.245,
+          718.087
+        ]
+      ],
+      "confidence": "inferred",
+      "notes": "Room relationships traced from Photo 10; affine registration beneath western gym wing is approximate and unresolved. No measured dimensions.",
+      "height": 3.85
+    },
+    {
+      "id": "l0-preschool-wr",
+      "name": "Preschool washroom",
+      "category": "support",
+      "polygon": [
+        [
+          500.545,
+          783.387
+        ],
+        [
+          520.245,
+          780.287
+        ],
+        [
+          523.845,
+          811.187
+        ],
+        [
+          504.145,
+          814.387
+        ]
+      ],
+      "confidence": "inferred",
+      "notes": "Room relationships traced from Photo 10; affine registration beneath western gym wing is approximate and unresolved. No measured dimensions.",
+      "height": 3.85
+    },
+    {
+      "id": "l0-infant-wr",
+      "name": "Infant washroom",
+      "category": "support",
+      "polygon": [
+        [
+          422.345,
+          703.887
+        ],
+        [
+          443.045,
+          700.587
+        ],
+        [
+          444.545,
+          713.487
+        ],
+        [
+          423.845,
+          716.787
+        ]
+      ],
+      "confidence": "inferred",
+      "notes": "Room relationships traced from Photo 10; affine registration beneath western gym wing is approximate and unresolved. No measured dimensions.",
+      "height": 3.85
+    },
+    {
+      "id": "l0-long-store",
+      "name": "Childcare equipment store",
+      "category": "support",
+      "polygon": [
+        [
+          502.445,
+          635.087
+        ],
+        [
+          564.445,
+          625.187
+        ],
+        [
+          566.045,
+          638.887
+        ],
+        [
+          504.045,
+          648.787
+        ]
+      ],
+      "confidence": "inferred",
+      "notes": "Room relationships traced from Photo 10; affine registration beneath western gym wing is approximate and unresolved. No measured dimensions.",
+      "height": 3.85
+    }
+  ],
+  "circulation": [
+    {
+      "id": "l0-circulation",
+      "name": "Childcare circulation",
+      "polygon": [
+        [
+          501.345,
+          634.387
+        ],
+        [
+          483.645,
+          564.487
+        ],
+        [
+          462.145,
+          568.787
+        ],
+        [
+          474.645,
+          610.587
+        ],
+        [
+          458.945,
+          615.687
+        ],
+        [
+          458.845,
+          630.687
+        ],
+        [
+          459.345,
+          660.387
+        ],
+        [
+          473.345,
+          665.087
+        ],
+        [
+          484.359,
+          678.304
+        ],
+        [
+          486.345,
+          677.987
+        ],
+        [
+          486.71,
+          681.125
+        ],
+        [
+          497.845,
+          694.487
+        ],
+        [
+          509.145,
+          742.587
+        ],
+        [
+          442.745,
+          764.587
+        ],
+        [
+          403.845,
+          783.987
+        ],
+        [
+          408.345,
+          798.087
+        ],
+        [
+          452.545,
+          782.287
+        ],
+        [
+          516.845,
+          758.887
+        ],
+        [
+          528.745,
+          804.287
+        ],
+        [
+          546.945,
+          796.187
+        ],
+        [
+          535.645,
+          731.387
+        ],
+        [
+          551.145,
+          724.587
+        ],
+        [
+          544.619,
+          691.412
+        ],
+        [
+          519.945,
+          695.387
+        ],
+        [
+          512.745,
+          666.687
+        ],
+        [
+          516.476,
+          665.557
+        ],
+        [
+          516.445,
+          665.287
+        ],
+        [
+          518.414,
+          664.97
+        ],
+        [
+          536.845,
+          659.387
+        ],
+        [
+          535.245,
+          645.587
+        ],
+        [
+          509.245,
+          652.387
+        ],
+        [
+          507.428,
+          648.247
+        ],
+        [
+          504.045,
+          648.787
+        ],
+        [
+          502.732,
+          637.548
+        ]
+      ]
+    }
+  ],
+  "voids": []
+}

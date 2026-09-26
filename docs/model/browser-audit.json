@@ -1,0 +1,582 @@
+{
+  "time": "2026-09-26T23:08:36.887Z",
+  "checks": [
+    {
+      "name": "Level 0",
+      "pass": true,
+      "detail": {
+        "selected": "0",
+        "visible": [
+          true,
+          false,
+          false,
+          false
+        ],
+        "expected": 22,
+        "actual": 22,
+        "site": false
+      }
+    },
+    {
+      "name": "Level 1",
+      "pass": true,
+      "detail": {
+        "selected": "1",
+        "visible": [
+          false,
+          true,
+          false,
+          false
+        ],
+        "expected": 86,
+        "actual": 86,
+        "site": true
+      }
+    },
+    {
+      "name": "Level 2",
+      "pass": true,
+      "detail": {
+        "selected": "2",
+        "visible": [
+          false,
+          false,
+          true,
+          false
+        ],
+        "expected": 51,
+        "actual": 51,
+        "site": true
+      }
+    },
+    {
+      "name": "Level 3",
+      "pass": true,
+      "detail": {
+        "selected": "3",
+        "visible": [
+          false,
+          false,
+          false,
+          true
+        ],
+        "expected": 49,
+        "actual": 49,
+        "site": true
+      }
+    },
+    {
+      "name": "Room metadata",
+      "pass": true,
+      "detail": "×\n\nSCIENCE\n\nChemistry\nLEVEL 03\nTRACED\n\nVisible partition boundaries traced from undimensioned photographed floor plan; coordinates approximate. All dimensions inferred."
+    },
+    {
+      "name": "Source 1",
+      "pass": true,
+      "detail": {
+        "src": "http://localhost:4174/references/1-Photo-1.jpg",
+        "width": 1280,
+        "height": 960
+      }
+    },
+    {
+      "name": "Source 2",
+      "pass": true,
+      "detail": {
+        "src": "http://localhost:4174/references/2-Photo-2.jpg",
+        "width": 1280,
+        "height": 960
+      }
+    },
+    {
+      "name": "Source 3",
+      "pass": true,
+      "detail": {
+        "src": "http://localhost:4174/references/3-Photo-3.jpg",
+        "width": 1280,
+        "height": 960
+      }
+    },
+    {
+      "name": "Source 4",
+      "pass": true,
+      "detail": {
+        "src": "http://localhost:4174/references/4-Photo-4.jpg",
+        "width": 1280,
+        "height": 960
+      }
+    },
+    {
+      "name": "Source 5",
+      "pass": true,
+      "detail": {
+        "src": "http://localhost:4174/references/5-Photo-5.jpg",
+        "width": 1280,
+        "height": 960
+      }
+    },
+    {
+      "name": "Source 6",
+      "pass": true,
+      "detail": {
+        "src": "http://localhost:4174/references/6-Photo-6.jpg",
+        "width": 1280,
+        "height": 960
+      }
+    },
+    {
+      "name": "Source 7",
+      "pass": true,
+      "detail": {
+        "src": "http://localhost:4174/references/7-Photo-7.jpg",
+        "width": 1280,
+        "height": 960
+      }
+    },
+    {
+      "name": "Source 8",
+      "pass": true,
+      "detail": {
+        "src": "http://localhost:4174/references/8-Photo-8.jpg",
+        "width": 1280,
+        "height": 960
+      }
+    },
+    {
+      "name": "Source 9",
+      "pass": true,
+      "detail": {
+        "src": "http://localhost:4174/references/9-Photo-9.jpg",
+        "width": 1280,
+        "height": 960
+      }
+    },
+    {
+      "name": "Source 10",
+      "pass": true,
+      "detail": {
+        "src": "http://localhost:4174/references/10-Photo-10.jpg",
+        "width": 1280,
+        "height": 960
+      }
+    },
+    {
+      "name": "Exploded floors",
+      "pass": true,
+      "detail": {
+        "visible": [
+          true,
+          true,
+          true,
+          true
+        ],
+        "positions": [
+          -4.2,
+          11,
+          26.2,
+          41.4
+        ],
+        "exterior": false
+      }
+    },
+    {
+      "name": "Labels on",
+      "pass": true
+    },
+    {
+      "name": "Section clipping",
+      "pass": true,
+      "detail": {
+        "enabled": true,
+        "count": 1,
+        "constant": -6.799999999999997
+      }
+    },
+    {
+      "name": "Campus view",
+      "pass": true,
+      "detail": [
+        -16.55415746293216,
+        3.273550410214444,
+        -103.46348414332601
+      ]
+    },
+    {
+      "name": "Reset camera and clipping",
+      "pass": true,
+      "detail": {
+        "target": [
+          0,
+          2,
+          0
+        ],
+        "clip": 200
+      }
+    },
+    {
+      "name": "Canvas ray picking",
+      "pass": true,
+      "detail": {
+        "x": 801.7676582321992,
+        "y": 191.1155437124966,
+        "name": "Classroom 1",
+        "text": "Classroom 1"
+      }
+    },
+    {
+      "name": "GLB binary all four levels",
+      "pass": true,
+      "detail": {
+        "magic": 1179937895,
+        "bytes": 11589668,
+        "nodes": 275,
+        "levelNames": [
+          "Level 0 · Childcare",
+          "Level 1 · School entry",
+          "Level 2",
+          "Level 3"
+        ],
+        "nodeNames": [
+          "Level 0 · Childcare",
+          "Level 1 · School entry",
+          "Level 2",
+          "Level 3"
+        ]
+      }
+    },
+    {
+      "name": "Responsive 1600",
+      "pass": true,
+      "detail": {
+        "scrollWidth": 1600,
+        "viewport": 1600,
+        "scrollHeight": 1050,
+        "height": 1050,
+        "buttons": [
+          {
+            "text": "◈\nComplete building\nExterior & architectural form\n↗",
+            "size": 16,
+            "width": 242
+          },
+          {
+            "text": "03\nThird floor\nUpper learning spaces\n→",
+            "size": 16,
+            "width": 242
+          },
+          {
+            "text": "02\nSecond floor\nLearning & athletics\n→",
+            "size": 16,
+            "width": 242
+          },
+          {
+            "text": "01\nFirst floor\nSchool & community\n→",
+            "size": 16,
+            "width": 242
+          },
+          {
+            "text": "00\nLower level\nChildcare & support\n→",
+            "size": 16,
+            "width": 242
+          },
+          {
+            "text": "▧\nSource drawings\n10 ↗",
+            "size": 12,
+            "width": 242
+          },
+          {
+            "text": "Isometric",
+            "size": 12,
+            "width": 81.78125
+          },
+          {
+            "text": "Street",
+            "size": 12,
+            "width": 62.46875
+          },
+          {
+            "text": "Plan",
+            "size": 12,
+            "width": 51.53125
+          },
+          {
+            "text": "North",
+            "size": 12,
+            "width": 59.5625
+          },
+          {
+            "text": "South",
+            "size": 12,
+            "width": 60.875
+          },
+          {
+            "text": "Campus",
+            "size": 12,
+            "width": 74.90625
+          },
+          {
+            "text": "↺",
+            "size": 12,
+            "width": 36.0625
+          }
+        ],
+        "canvas": [
+          1308,
+          1050
+        ]
+      }
+    },
+    {
+      "name": "Button font 1600",
+      "pass": true,
+      "detail": [
+        {
+          "text": "◈\nComplete building\nExterior & architectural form\n↗",
+          "size": 16,
+          "width": 242
+        },
+        {
+          "text": "03\nThird floor\nUpper learning spaces\n→",
+          "size": 16,
+          "width": 242
+        },
+        {
+          "text": "02\nSecond floor\nLearning & athletics\n→",
+          "size": 16,
+          "width": 242
+        },
+        {
+          "text": "01\nFirst floor\nSchool & community\n→",
+          "size": 16,
+          "width": 242
+        },
+        {
+          "text": "00\nLower level\nChildcare & support\n→",
+          "size": 16,
+          "width": 242
+        },
+        {
+          "text": "▧\nSource drawings\n10 ↗",
+          "size": 12,
+          "width": 242
+        },
+        {
+          "text": "Isometric",
+          "size": 12,
+          "width": 81.78125
+        },
+        {
+          "text": "Street",
+          "size": 12,
+          "width": 62.46875
+        },
+        {
+          "text": "Plan",
+          "size": 12,
+          "width": 51.53125
+        },
+        {
+          "text": "North",
+          "size": 12,
+          "width": 59.5625
+        },
+        {
+          "text": "South",
+          "size": 12,
+          "width": 60.875
+        },
+        {
+          "text": "Campus",
+          "size": 12,
+          "width": 74.90625
+        },
+        {
+          "text": "↺",
+          "size": 12,
+          "width": 36.0625
+        }
+      ]
+    },
+    {
+      "name": "Responsive 390",
+      "pass": true,
+      "detail": {
+        "scrollWidth": 390,
+        "viewport": 390,
+        "scrollHeight": 844,
+        "height": 844,
+        "buttons": [
+          {
+            "text": "Complete building",
+            "size": 16,
+            "width": 67.59375
+          },
+          {
+            "text": "Third floor",
+            "size": 16,
+            "width": 67.59375
+          },
+          {
+            "text": "Second floor",
+            "size": 16,
+            "width": 67.59375
+          },
+          {
+            "text": "First floor",
+            "size": 16,
+            "width": 67.59375
+          },
+          {
+            "text": "Lower level",
+            "size": 16,
+            "width": 67.59375
+          },
+          {
+            "text": "▧\nSource drawings\n10 ↗",
+            "size": 12,
+            "width": 358
+          },
+          {
+            "text": "Isometric",
+            "size": 12,
+            "width": 75.78125
+          },
+          {
+            "text": "Street",
+            "size": 12,
+            "width": 56.46875
+          },
+          {
+            "text": "Plan",
+            "size": 12,
+            "width": 45.53125
+          },
+          {
+            "text": "North",
+            "size": 12,
+            "width": 53.5625
+          },
+          {
+            "text": "South",
+            "size": 12,
+            "width": 54.875
+          },
+          {
+            "text": "Campus",
+            "size": 12,
+            "width": 68.90625
+          },
+          {
+            "text": "↺",
+            "size": 12,
+            "width": 30.0625
+          }
+        ],
+        "canvas": [
+          1308,
+          1050
+        ]
+      }
+    },
+    {
+      "name": "Button font 390",
+      "pass": true,
+      "detail": [
+        {
+          "text": "Complete building",
+          "size": 16,
+          "width": 67.59375
+        },
+        {
+          "text": "Third floor",
+          "size": 16,
+          "width": 67.59375
+        },
+        {
+          "text": "Second floor",
+          "size": 16,
+          "width": 67.59375
+        },
+        {
+          "text": "First floor",
+          "size": 16,
+          "width": 67.59375
+        },
+        {
+          "text": "Lower level",
+          "size": 16,
+          "width": 67.59375
+        },
+        {
+          "text": "▧\nSource drawings\n10 ↗",
+          "size": 12,
+          "width": 358
+        },
+        {
+          "text": "Isometric",
+          "size": 12,
+          "width": 75.78125
+        },
+        {
+          "text": "Street",
+          "size": 12,
+          "width": 56.46875
+        },
+        {
+          "text": "Plan",
+          "size": 12,
+          "width": 45.53125
+        },
+        {
+          "text": "North",
+          "size": 12,
+          "width": 53.5625
+        },
+        {
+          "text": "South",
+          "size": 12,
+          "width": 54.875
+        },
+        {
+          "text": "Campus",
+          "size": 12,
+          "width": 68.90625
+        },
+        {
+          "text": "↺",
+          "size": 12,
+          "width": 30.0625
+        }
+      ]
+    },
+    {
+      "name": "No browser errors",
+      "pass": true,
+      "detail": {
+        "errors": [],
+        "consoleErrors": []
+      }
+    },
+    {
+      "name": "Fresh mobile canvas sizing",
+      "pass": true,
+      "detail": {
+        "canvas": [
+          390,
+          619
+        ],
+        "host": [
+          390,
+          619
+        ],
+        "aspect": 0.630048465266559,
+        "scroll": [
+          390,
+          844
+        ]
+      }
+    }
+  ],
+  "errors": [],
+  "consoleErrors": [],
+  "passed": true
+}

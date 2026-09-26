@@ -1,0 +1,92 @@
+{
+  "source": "Photo 10 childcare site areas",
+  "coordinateSystem": "Photo 8 common pixel grid; x right, z down",
+  "features": [
+    {
+      "id": "toddler-playground",
+      "name": "Toddler playground",
+      "category": "playground",
+      "polygon": [
+        [
+          204.105,
+          663.407
+        ],
+        [
+          336.605,
+          608.977
+        ],
+        [
+          364.185,
+          706.187
+        ],
+        [
+          234.905,
+          763.607
+        ]
+      ],
+      "elevation": -4.2,
+      "confidence": "inferred",
+      "notes": "Separate labelled playground traced from Photo 10; registered with same approximate affine transform as childcare. Boundaries and height inferred."
+    },
+    {
+      "id": "infant-playground",
+      "name": "Infant playground",
+      "category": "playground",
+      "polygon": [
+        [
+          236.245,
+          766.897
+        ],
+        [
+          366.765,
+          711.907
+        ],
+        [
+          398.805,
+          814.537
+        ],
+        [
+          264.965,
+          865.677
+        ]
+      ],
+      "elevation": -4.2,
+      "confidence": "inferred",
+      "notes": "Separate labelled playground traced from Photo 10; registered with same approximate affine transform as childcare. Boundaries and height inferred."
+    },
+    {
+      "id": "preschool-playground",
+      "name": "Preschool playground",
+      "category": "playground",
+      "polygon": [
+        [
+          276.845,
+          869.037
+        ],
+        [
+          407.125,
+          820.217
+        ],
+        [
+          422.165,
+          858.987
+        ],
+        [
+          551.205,
+          807.737
+        ],
+        [
+          553.245,
+          858.217
+        ],
+        [
+          294.625,
+          964.307
+        ]
+      ],
+      "elevation": -4.2,
+      "confidence": "inferred",
+      "notes": "Separate labelled playground traced from Photo 10; registered with same approximate affine transform as childcare. Boundaries and height inferred."
+    }
+  ]
+}

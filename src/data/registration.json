@@ -1,0 +1,189 @@
+{
+  "canonical": {
+    "source": "public/references/8-Photo-8.jpg",
+    "coordinateSystem": "image pixels; x right, y down",
+    "anchors": [
+      [
+        262,
+        153
+      ],
+      [
+        1025,
+        150
+      ],
+      [
+        1034,
+        729
+      ],
+      [
+        381,
+        852
+      ]
+    ]
+  },
+  "convention": "Column vectors: [u,v,w]^T = H @ [x,y,1]^T; output pixel = [u/w,v/w]. Matrices are row-major nested arrays.",
+  "photos": {
+    "4": {
+      "source": "public/references/4-Photo-4.jpg",
+      "level": 2,
+      "imageSize": [
+        1280,
+        960
+      ],
+      "sourceAnchors": [
+        [
+          305,
+          183
+        ],
+        [
+          934,
+          185
+        ],
+        [
+          942,
+          682
+        ],
+        [
+          366,
+          771
+        ]
+      ],
+      "canonicalAnchors": [
+        [
+          262,
+          153
+        ],
+        [
+          1025,
+          150
+        ],
+        [
+          1034,
+          729
+        ],
+        [
+          381,
+          852
+        ]
+      ],
+      "sourceToCanonical": [
+        [
+          1.3216338658464843,
+          0.12017220438960527,
+          -152.74770336684165
+        ],
+        [
+          -0.0002795771625778478,
+          1.3406328615991399,
+          -86.2110491826977
+        ],
+        [
+          5.923411783350439e-05,
+          0.0001169803688223913,
+          1.0
+        ]
+      ],
+      "canonicalToSource": [
+        [
+          0.7623166208024463,
+          -0.07790724700070747,
+          109.72564756307858
+        ],
+        [
+          -0.002724289700038382,
+          0.7510086576833502,
+          64.32911532918428
+        ],
+        [
+          -4.483646412916145e-05,
+          -8.323850271568347e-05,
+          1.0
+        ]
+      ]
+    },
+    "5": {
+      "source": "public/references/5-Photo-5.jpg",
+      "level": 3,
+      "imageSize": [
+        1280,
+        960
+      ],
+      "sourceAnchors": [
+        [
+          312,
+          128
+        ],
+        [
+          1055,
+          127
+        ],
+        [
+          1044,
+          696
+        ],
+        [
+          419,
+          798
+        ]
+      ],
+      "canonicalAnchors": [
+        [
+          262,
+          153
+        ],
+        [
+          1025,
+          150
+        ],
+        [
+          1034,
+          729
+        ],
+        [
+          381,
+          852
+        ]
+      ],
+      "sourceToCanonical": [
+        [
+          1.0671817684739355,
+          -0.00499857517884387,
+          -68.89685876705013
+        ],
+        [
+          0.002388518947732545,
+          1.0191767167019614,
+          22.63175552683289
+        ],
+        [
+          3.3789267314380915e-05,
+          -3.9898452213173994e-05,
+          1.0
+        ]
+      ],
+      "canonicalToSource": [
+        [
+          0.9378674042903031,
+          0.007123055099057966,
+          64.45491085400288
+        ],
+        [
+          -0.0014929393160124562,
+          0.9833136935134944,
+          -22.356973946987573
+        ],
+        [
+          -3.174941839696671e-05,
+          3.8992011598370636e-05,
+          1.0
+        ]
+      ]
+    }
+  },
+  "notes": [
+    "Four-point projective fit used exactly in upper-floor tracing. Source and target anchors are manually chosen approximate corresponding exterior corners.",
+    "No post-homography global registration correction was applied.",
+    "Floor polygons were subsequently clipped to remove small support-room/circulation/void overlaps, rounded to 0.01 canonical pixel, and small disconnected edge fragments discarded. The matrices do not encode these topology edits.",
+    "Undimensioned photographed plans; numerical matrix precision is not survey accuracy."
+  ]
+}

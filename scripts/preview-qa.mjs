@@ -1,0 +1,11 @@
+import {chromium} from '@playwright/test';
+const browser=await chromium.launch({headless:true,args:['--no-sandbox','--use-gl=angle','--use-angle=swiftshader','--enable-unsafe-swiftshader']});
+const page=await browser.newPage({viewport:{width:1600,height:1050},deviceScaleFactor:1});
+page.on('pageerror',e=>console.log('ERROR',e.message));page.on('console',m=>{if(m.type()==='error')console.log('CONSOLE',m.text())});
+await page.goto('http://localhost:4173',{waitUntil:'networkidle'});
+await page.waitForFunction(()=>!!window.__school);await page.waitForTimeout(1500);
+await page.screenshot({path:'verification/first-exterior.png'});
+console.log(await page.evaluate(()=>({rooms:__school.rooms.length,drawCalls:__school.renderer.info.render.calls,triangles:__school.renderer.info.render.triangles,canvas:[__school.renderer.domElement.width,__school.renderer.domElement.height]})));
+await page.locator('[data-level="1"]').click();await page.locator('[data-camera="top"]').click();await page.waitForTimeout(1800);
+await page.screenshot({path:'verification/first-level1.png'});
+await browser.close();

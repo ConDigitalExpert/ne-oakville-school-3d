@@ -1,0 +1,58 @@
+{
+  "url": "http://localhost:4173",
+  "time": "2026-09-26T23:24:03.573Z",
+  "checks": [
+    {
+      "name": "208 spaces loaded",
+      "pass": true
+    },
+    {
+      "name": "batched rendering",
+      "pass": true,
+      "drawCalls": 310,
+      "triangles": 165010
+    },
+    {
+      "name": "Room finder",
+      "pass": true
+    },
+    {
+      "name": "Source overlay L1",
+      "pass": true
+    },
+    {
+      "name": "Source overlay L2",
+      "pass": true
+    },
+    {
+      "name": "Source overlay L3",
+      "pass": true
+    },
+    {
+      "name": "No mobile horizontal overflow",
+      "pass": true
+    },
+    {
+      "name": "ne-oakville-school.glb",
+      "pass": true,
+      "bytes": 11786156,
+      "rooms": 208,
+      "nodes": 276,
+      "meshes": 265
+    },
+    {
+      "name": "ne-oakville-campus.glb",
+      "pass": true,
+      "bytes": 12476940,
+      "rooms": 208,
+      "nodes": 320,
+      "meshes": 308
+    },
+    {
+      "name": "No browser errors",
+      "pass": true,
+      "errors": []
+    }
+  ],
+  "pass": true
+}
