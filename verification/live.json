@@ -1,0 +1,69 @@
+{
+  "url": "https://condigitalexpert.github.io/ne-oakville-school-3d/",
+  "time": "2026-09-26T23:25:54.567Z",
+  "checks": [
+    {
+      "name": "Live viewer",
+      "pass": true,
+      "rooms": 208
+    },
+    {
+      "name": "Live level 0",
+      "pass": true
+    },
+    {
+      "name": "Live level 1",
+      "pass": true
+    },
+    {
+      "name": "Live level 2",
+      "pass": true
+    },
+    {
+      "name": "Live level 3",
+      "pass": true
+    },
+    {
+      "name": "Live room finder",
+      "pass": true
+    },
+    {
+      "name": "Live source overlay",
+      "pass": true
+    },
+    {
+      "name": "QA-QC.html",
+      "pass": true,
+      "status": 200,
+      "bytes": 6290
+    },
+    {
+      "name": "model/school-data.json",
+      "pass": true,
+      "status": 200,
+      "bytes": 184013
+    },
+    {
+      "name": "model/ne-oakville-school.glb",
+      "pass": true,
+      "status": 200,
+      "bytes": 11786156
+    },
+    {
+      "name": "model/ne-oakville-campus.glb",
+      "pass": true,
+      "status": 200,
+      "bytes": 12476940
+    },
+    {
+      "name": "Live mobile layout",
+      "pass": true
+    },
+    {
+      "name": "Live browser errors",
+      "pass": true,
+      "errors": []
+    }
+  ],
+  "pass": true
+}
